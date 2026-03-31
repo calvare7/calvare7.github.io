@@ -9,7 +9,6 @@ last_name: Alvarez Zambrano
 contact_note: Feel free to reach out for collaborations in planetary science, fluid dynamics, and geomorphology on Earth and Mars. I am always open to discussing new ideas and projects.
 description: >
   Postdoctoral Researcher | Fluid Mechanics & Planetary Science | University of Waterloo
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -25,9 +24,9 @@ impressum_path: # set to path to include impressum link in the footer, use the s
 back_to_top: true # set to false to disable the back to top button
 
 email: ca3alvarezzambrano@uwaterloo.ca
-scholar_userid: https://scholar.google.com/citations?hl=es&user=0k9nzM8AAAAJ&view_op=list_works&sortby=pubdate 
-linkedin_username: www.linkedin.com/in/carlos-alvarez-zambrano-1b9631307  # from your LinkedIn URL
-orcid_id: https://orcid.org/my-orcid?orcid=0000-0002-7270-5240 
+scholar_userid: 0k9nzM8AAAAJ
+linkedin_username: carlos-alvarez-zambrano-1b9631307  # from your LinkedIn URL
+orcid_id: 0000-0002-7270-5240 
 
 # -----------------------------------------------------------------------------
 # Theme
