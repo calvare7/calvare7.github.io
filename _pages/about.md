@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Researcher, <a href="https://uwaterloo.ca">University of Waterloo</a>. Formerly a postdoc at Stanford University and UCLA.
+subtitle: Postdoctoral Researcher, <a href="https://uwaterloo.ca/fluid-mechanics-research-lab/">University of Waterloo</a>. Formerly a postdoc at <a href="https://epsp.stanford.edu/">Stanford University</a> and <a href="https://atmos.ucla.edu/chamecki/">UCLA</a>.
 
 profile:
   align: right
