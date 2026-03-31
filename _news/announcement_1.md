@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-10-15
+date: 2025-04-01
 inline: true
-related_posts: false
 ---
-Joined the University of Waterloo as a Postdoctoral Scholar in the Fluid Mechanics Research Lab.
+
+New paper out in *Nature Communications*! Aerodynamic roughness of rippled beds under active saltation at Earth-to-Mars atmospheric pressures. [Nature Communications, 16, 5113](https://www.nature.com/articles/s41467-025-60212-7)
