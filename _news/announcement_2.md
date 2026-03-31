@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2025-06-02
+date: 2025-02-01
 inline: true
-related_posts: false
 ---
-New paper out in *Nature Communications*! Aerodynamic roughness of rippled beds under active saltation at Earth-to-Mars atmospheric pressures.
+
+New paper out in *Nature Communications*! Ripples formed in low-pressure wind tunnels suggest Mars's large windblown ripples are not impact ripples. [Nature Communications, 16, 2945](https://www.nature.com/articles/s41467-025-58140-7).
 
 
