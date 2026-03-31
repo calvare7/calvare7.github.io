@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-10-01
 inline: true
-related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Joined the [Fluid Mechanics Research Lab](https://uwaterloo.ca/fluid-mechanics-research-lab/) at the University of Waterloo as a Postdoctoral Scholar.
