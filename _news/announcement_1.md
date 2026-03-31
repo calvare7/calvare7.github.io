@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-06-02
+date: 2025-10-15
 inline: true
 related_posts: false
 ---
-New paper out in *Nature Communications*! Aerodynamic roughness of rippled beds under active saltation at Earth-to-Mars atmospheric pressures.
+Joined the University of Waterloo as a Postdoctoral Scholar in the Fluid Mechanics Research Lab.
