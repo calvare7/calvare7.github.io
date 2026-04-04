@@ -1,81 +1,68 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Subaqueous Barchan Dunes
+description: Formation and dynamics of barchan dunes under turbulent water flow — lab experiments
+img: assets/img/barchan_preview.jpg
 importance: 1
 category: work
-related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Formation and Dynamics of Subaqueous Barchan Dunes
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Barchan dunes are crescent-shaped bedforms that emerge when a limited supply of sediment is transported by a unidirectional flow over a flat bed. While they are commonly observed in deserts, they also form underwater — on riverbeds, continental shelves, and even on Mars.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+This project investigated the **formation and dynamics of subaqueous barchan dunes** through controlled laboratory experiments. An initially conical pile of glass beads (diameter 0.5 mm, density ρ = 2500 kg/m³) was placed at the bottom of a water-filled flume and subjected to turbulent flow. The pile progressively deformed into a fully developed barchan dune.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+---
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+### Experiment
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+The movie below shows a **top-down view** of a barchan dune recorded with a high-speed camera. The fluid flow direction is from **top to bottom**. Black grains are tracers used to identify the trajectories of grains migrating toward the horns (the dune's tips) as they formed.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row mt-3">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include video.liquid path="assets/video/barchan_dune.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false muted=true %}
   </div>
 </div>
-```
+<div class="caption">
+  Top-down view of a barchan dune forming from a conical pile of glass beads under turbulent water flow (flow direction: top to bottom). Black grains are tracers tracking grain trajectories toward the forming horns.
+</div>
 
-{% endraw %}
+---
+
+### Key Findings
+
+- Contrary to what is commonly assumed in the aeolian case, **most grains migrating to the horns did not come from the lateral flanks** of the initial heap or dune. Instead, they originated from **upstream regions** of the bedform, exhibiting significant transverse displacements.
+- When the barchan was composed of **bidisperse grains**, the grains segregated following a **diffusion-like mechanism**.
+- These results provide new insights into barchan structures found in rivers, coastal environments, and other planetary surfaces.
+
+---
+
+### Related Publications
+
+<ul>
+  <li>
+    Alvarez, C.A., & Franklin, E.M. (2018).
+    <strong>Role of transverse displacements in the formation of subaqueous barchan dunes.</strong>
+    <em>Physical Review Letters</em>, 121, 164503.
+    <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.164503" target="_blank">DOI</a>
+  </li>
+  <li>
+    Alvarez, C.A., & Franklin, E.M. (2019).
+    <strong>Horns of subaqueous barchan dunes: A study at the grain scale.</strong>
+    <em>Physical Review E</em>, 100, 042904.
+    <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.100.042904" target="_blank">DOI</a>
+  </li>
+  <li>
+    Alvarez, C.A., & Franklin, E.M. (2017).
+    <strong>Birth of a subaqueous barchan dune.</strong>
+    <em>Physical Review E</em>, 96, 062906.
+    <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.96.062906" target="_blank">DOI</a>
+  </li>
+  <li>
+    Alvarez, C.A., Cúñez, F.D., & Franklin, E.M. (2021).
+    <strong>Growth of barchan dunes of bidispersed granular mixtures.</strong>
+    <em>Physics of Fluids</em>, 33, 051705.
+    <a href="https://pubs.aip.org/aip/pof/article/33/5/051705/992159/Growth-of-barchan-dunes-of-bidispersed-granular" target="_blank">DOI</a>
+  </li>
+</ul>
