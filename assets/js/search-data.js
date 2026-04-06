@@ -449,12 +449,7 @@ ninja.data = [{
           section: "News",},{id: "news-joined-the-fluid-mechanics-research-lab-at-the-university-of-waterloo-as-a-postdoctoral-scholar",
           title: 'Joined the Fluid Mechanics Research Lab at the University of Waterloo as a...',
           description: "",
-          section: "News",},{id: "projects-subaqueous-barchan-dunes",
-          title: 'Subaqueous Barchan Dunes',
-          description: "Formation and dynamics of barchan dunes under turbulent water flow — lab experiments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
+          section: "News",},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
