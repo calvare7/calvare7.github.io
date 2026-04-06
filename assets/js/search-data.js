@@ -449,12 +449,7 @@ ninja.data = [{
           section: "News",},{id: "news-joined-the-fluid-mechanics-research-lab-at-the-university-of-waterloo-as-a-postdoctoral-scholar",
           title: 'Joined the Fluid Mechanics Research Lab at the University of Waterloo as a...',
           description: "",
-          section: "News",},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
-            },},{id: "teachings-data-science-fundamentals",
+          section: "News",},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
           section: "Teachings",handler: () => {
