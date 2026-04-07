@@ -39,6 +39,5 @@ nav_order: 6
 #### How do grains move inside an underwater sand dune? (2018)
 
 - [EurekAlert!](https://www.eurekalert.org/news-releases/765168)
-- [Science Daily](https://www.sciencedaily.com/releases/2018/11/181126130551.htm)
 - [Phys.org](https://phys.org/news/2018-11-dynamics-dune-formation.html)
 - [Agência FAPESP](https://agencia.fapesp.br/research-helps-in-understanding-the-dynamics-of-dune-formation/29178)
