@@ -2,7 +2,7 @@
 layout: page
 title: Press
 permalink: /press/
-description: Media coverage and press highlights of my research.
+description: Media coverage and press highlights of our research.
 nav: true
 nav_order: 6
 ---
