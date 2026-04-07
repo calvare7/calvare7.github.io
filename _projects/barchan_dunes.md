@@ -21,7 +21,7 @@ The movie below shows a **top-down view** of a barchan dune recorded with a high
 
 <div class="row mt-3 justify-content-center">
   <div class="col-sm-8 mt-3 mt-md-0">
-    {% include video.liquid path="assets/video/barchan_dune.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false muted=true %}
+    {% include video.liquid path="assets/video/barchan_dune.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true muted=true %}
   </div>
 </div>
 <div class="caption">
