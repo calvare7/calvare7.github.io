@@ -15,6 +15,19 @@ This project used the **Mars Surface Wind Tunnel (MARSWIT)** at NASA Ames Resear
 
 ---
 
+### Windblown Ripples on Earth and Mars
+
+<div class="row mt-3">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/rippleEarthMars.jpg" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+<div class="caption">
+  Windblown ripples under varied pressure conditions. <strong>A</strong> Two scales of windblown ripples atop Namib dune, Gale Crater, Mars (Curiosity rover Mastcam mosaic mcam005410, sol 1192; credit: NASA/JPL-Caltech/MSSS). <strong>B</strong> Impact ripples in the Mesquite Flat Sand Dunes, Death Valley, California, USA (image modified from <a href="https://doi.org/10.1038/s41467-025-58140-7" target="_blank">Alvarez et al., 2025</a>).
+</div>
+
+---
+
 ### Experiment — Bed Evolution at 100 mbar
 
 The video below shows a side view of the sand bed evolving under active saltation at 100 mbar, capturing the growth of two distinct scales of ripples from an initially flat surface.
@@ -26,19 +39,6 @@ The video below shows a side view of the sand bed evolving under active saltatio
 </div>
 <div class="caption">
   Side view of sand bed evolution at 100 mbar in the MARSWIT. Two scales of windblown ripples grow simultaneously from an initially flat bed under turbulent airflow at Mars-like atmospheric pressure.
-</div>
-
----
-
-### Windblown Ripples on Earth and Mars
-
-<div class="row mt-3">
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/rippleEarthMars.jpg" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-<div class="caption">
-  Windblown ripples under varied pressure conditions. <strong>A</strong> Two scales of windblown ripples atop Namib dune, Gale Crater, Mars (Curiosity rover Mastcam mosaic mcam005410, sol 1192; credit: NASA/JPL-Caltech/MSSS). <strong>B</strong> Impact ripples in the Mesquite Flat Sand Dunes, Death Valley, California, USA (image modified from <a href="https://doi.org/10.1038/s41467-025-58140-7" target="_blank">Alvarez et al., 2025</a>).
 </div>
 
 ---
