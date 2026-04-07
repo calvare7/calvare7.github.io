@@ -21,7 +21,7 @@ The video below shows a side view of the sand bed evolving under active saltatio
 
 <div class="row mt-3 justify-content-center">
   <div class="col-sm-8 mt-3 mt-md-0">
-    {% include video.liquid path="assets/video/MARSWIT_100mbarSideView.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false muted=true %}
+    {% include video.liquid path="assets/video/MARSWIT_100mbarSideView.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true loop=true muted=true %}
   </div>
 </div>
 <div class="caption">
