@@ -449,12 +449,7 @@ ninja.data = [{
           section: "News",},{id: "news-joined-the-fluid-mechanics-research-lab-at-the-university-of-waterloo-as-a-postdoctoral-scholar",
           title: 'Joined the Fluid Mechanics Research Lab at the University of Waterloo as a...',
           description: "",
-          section: "News",},{id: "projects-subaqueous-barchan-dunes",
-          title: 'Subaqueous Barchan Dunes',
-          description: "Formation and dynamics of barchan dunes under turbulent water flow — lab experiments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/Barchan%20dunes/";
-            },},{id: "projects-windblown-ripples-at-mars-like-pressures",
+          section: "News",},{id: "projects-windblown-ripples-at-mars-like-pressures",
           title: 'Windblown Ripples at Mars-Like Pressures',
           description: "Low-pressure wind tunnel experiments revealing the origin of Mars&#39;s large windblown ripples — MARSWIT experiments",
           section: "Projects",handler: () => {
@@ -464,6 +459,11 @@ ninja.data = [{
           description: "Formation and dynamics of barchan dunes under turbulent water flow — lab experiments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/barchan_dunes/";
+            },},{id: "projects-windblown-ripples-at-mars-like-pressures",
+          title: 'Windblown Ripples at Mars-Like Pressures',
+          description: "Low-pressure wind tunnel experiments revealing the origin of Mars&#39;s large windblown ripples — MARSWIT experiments",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/marswit_ripples/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
