@@ -11,9 +11,11 @@ nav_order: 6
 
 ---
 
-#### AI helps to measure forces in a sand dune (2025)
+#### New technique measures grain-scale forces inside sand dunes (2025)
 
+- [Space.com](https://www.space.com/astronomy/mars/how-ai-and-sand-dunes-on-mars-can-reveal-the-planets-history-one-grain-at-a-time)
 - [Phys.org](https://phys.org/news/2025-10-technique-grain-sand-dune.html)
+- [Agência FAPESP](https://agencia.fapesp.br/technique-allows-estimation-of-the-force-acting-on-each-grain-of-sand-in-a-dune/56222)
 
 ---
 
