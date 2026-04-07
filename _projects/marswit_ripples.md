@@ -38,7 +38,7 @@ The video below shows a side view of the sand bed evolving under active saltatio
   </div>
 </div>
 <div class="caption">
-  Windblown ripples under varied pressure conditions. <strong>a</strong> Two scales of windblown ripples atop Namib dune, Gale Crater, Mars (Curiosity rover Mastcam mosaic mcam005410, sol 1192; credit: NASA/JPL-Caltech/MSSS). <strong>b</strong> Impact ripples in the Mesquite Flat Sand Dunes, Death Valley, California, USA (image modified from <a href="https://doi.org/10.1038/s41467-025-58140-7" target="_blank">Alvarez et al., 2025</a>).
+  Windblown ripples under varied pressure conditions. <strong>A</strong> Two scales of windblown ripples atop Namib dune, Gale Crater, Mars (Curiosity rover Mastcam mosaic mcam005410, sol 1192; credit: NASA/JPL-Caltech/MSSS). <strong>B</strong> Impact ripples in the Mesquite Flat Sand Dunes, Death Valley, California, USA (image modified from <a href="https://doi.org/10.1038/s41467-025-58140-7" target="_blank">Alvarez et al., 2025</a>).
 </div>
 
 ---
@@ -53,7 +53,7 @@ The video below shows a side view of the sand bed evolving under active saltatio
 
 - ***z₀* can be up to two orders of magnitude larger on Mars than is typically assumed, while flow remains smooth.** Values can reach up to 1 cm — far exceeding the flat-bed assumptions used in current wind-speed predictions and global circulation models for Mars.
 
-- **Conclusion: Large martian ripples are drag ripples.** Their size, formation mechanism, and associated sand fluxes are all consistent with aerodynamic (drag) ripple theory, and inconsistent with an impact-ripple origin.
+- **Large martian ripples are drag ripples.** Their size, formation mechanism, and associated sand fluxes are all consistent with aerodynamic (drag) ripple theory.
 
 ---
 
