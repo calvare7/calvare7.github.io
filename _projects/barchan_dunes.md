@@ -20,8 +20,8 @@ This project investigated the **formation and dynamics of subaqueous barchan dun
 The movie below shows a **top-down view** of a barchan dune recorded with a high-speed camera. The fluid flow direction is from **top to bottom**. Black grains are tracers used to identify the trajectories of grains migrating toward the horns (the dune's tips) as they formed.
 
 <div class="row mt-3 justify-content-center">
-  <div class="col-sm-6 mt-3 mt-md-0">
-    {% include video.liquid path="assets/video/barchan_dune.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true muted=true %}
+  <div class="col-sm-4 mt-3 mt-md-0">
+    {% include video.liquid path="assets/video/barchan_dune.mp4" class="img-fluid rounded z-depth-1" controls=false autoplay=true muted=true %}
   </div>
 </div>
 <div class="caption">
