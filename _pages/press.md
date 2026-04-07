@@ -19,7 +19,7 @@ nav_order: 6
 
 ---
 
-#### Grain-scale computations of barchan dunes (2022)
+#### Simulations of chasing dunes (2022)
 
 - [Physics of Fluids — Featured article](https://pubs.aip.org/aip/pof/article/34/12/123320/2844356/Grain-scale-computations-of-barchan-dunes)
 - [EurekAlert!](https://www.eurekalert.org/news-releases/973259)
@@ -28,7 +28,7 @@ nav_order: 6
 
 ---
 
-#### Barchan dunes of bidisperse grains (2021)
+#### Barchan dune shapes are almost always the same (2021)
 
 - [Physics Today](https://pubs.aip.org/physicstoday/online/22375/Stratified-grain-flows-form-barchan-dunes)
 - [Scilight — AIP Publishing](https://pubs.aip.org/aip/sci/article/2021/19/191106/364936/Barchan-dune-shapes-almost-always-the-same)
@@ -36,7 +36,7 @@ nav_order: 6
 
 ---
 
-#### Role of transverse displacements in barchan dune formation (2018)
+#### How do grains move inside an underwater sand dune? (2018)
 
 - [EurekAlert!](https://www.eurekalert.org/news-releases/765168)
 - [Science Daily](https://www.sciencedaily.com/releases/2018/11/181126130551.htm)
