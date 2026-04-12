@@ -7,7 +7,9 @@ nav: true
 nav_order: 2
 ---
 
-{% include figure.liquid path="assets/img/publications.jpeg" class="img-fluid rounded z-depth-1 mb-4" style="max-height: 200px; object-fit: cover;" %}
+<div style="max-height: 200px; overflow: hidden;">
+  {% include figure.liquid path="assets/img/publications.jpeg" class="img-fluid rounded z-depth-1 mb-4" %}
+</div>
 
 <!-- _pages/publications.md -->
 <!-- Bibsearch Feature -->
