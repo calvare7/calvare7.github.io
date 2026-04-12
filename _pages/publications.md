@@ -7,14 +7,11 @@ nav: true
 nav_order: 2
 ---
 
+{% include figure.liquid path="assets/img/publications.jpeg" class="img-fluid rounded z-depth-1 mb-4" %}
+
 <!-- _pages/publications.md -->
-
 <!-- Bibsearch Feature -->
-
 {% include bib_search.liquid %}
-
 <div class="publications">
-
 {% bibliography %}
-
 </div>
