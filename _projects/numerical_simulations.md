@@ -23,7 +23,7 @@ A turbulent water flow acts on an initially conical pile of grains, which progre
   </div>
 </div>
 <div class="caption">
-  CFD-DEM simulation of a turbulent water flow acting on a pile of grains deforming into a barchan dune. Flow direction: top to bottom.
+  CFD-DEM simulation of a turbulent water flow acting on a pile of grains deforming into a barchan dune. Flow direction: top to bottom. Video is sped up 3x.
 </div>
 
 <ul>
