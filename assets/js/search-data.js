@@ -466,6 +466,11 @@ ninja.data = [{
           description: "Low-pressure wind tunnel experiments revealing the origin of Mars&#39;s large windblown ripples — MARSWIT experiments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/marswit_ripples/";
+            },},{id: "projects-numerical-simulations-of-sand-dunes",
+          title: 'Numerical Simulations of Sand Dunes',
+          description: "CFD-DEM simulations of sand dunes revealing grain-scale dynamics inaccessible to experiments",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/numerical_simulations/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
