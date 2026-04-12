@@ -15,7 +15,7 @@ In this project, sand dunes were simulated by coupling two complementary methods
 
 ---
 
-### Simulation 1 — Formation of a Subaqueous Barchan Dune
+### Formation of a Subaqueous Barchan Dune
 
 A turbulent water flow acts on an initially conical pile of grains, which progressively deforms into a barchan dune. The flow direction is from **top to bottom**.
 
@@ -39,7 +39,7 @@ A turbulent water flow acts on an initially conical pile of grains, which progre
 
 ---
 
-### Simulation 2 — Grain-Scale Force Fields
+### Grain-Scale Force Fields
 
 One of the key advantages of numerical simulations is direct access to forces acting on each grain. This simulation shows the **instantaneous streamwise force field** — the force component aligned with the flow direction (top to bottom) — over a fully developed barchan dune.
 
@@ -63,13 +63,13 @@ One of the key advantages of numerical simulations is direct access to forces ac
 
 ---
 
-### Simulation 3 — Interacting Barchan Dunes
+### Interacting Barchan Dunes
 
 When two barchan dunes travel in the same direction, they interact in a complex dance of grain exchange. This simulation captures two dunes chasing each other, revealing the back-and-forth transmission of grains between the bedforms at the grain scale.
 
 <div class="row mt-3 justify-content-center">
   <div class="col-sm-8 mt-3 mt-md-0">
-    {% include video.liquid path="assets/video/barchan_interaction.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true loop=true muted=true %}
+    {% include video.liquid path="assets/video/barchan_interaction_compressed.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true loop=true muted=true %}
   </div>
 </div>
 <div class="caption">
