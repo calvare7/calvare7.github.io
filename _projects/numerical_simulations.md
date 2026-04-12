@@ -7,8 +7,6 @@ importance: 3
 category: work
 ---
 
-## Numerical Simulations of Sand Dunes
-
 Laboratory experiments provide direct observations of dune dynamics, but many quantities remain inaccessible — forces acting on individual grains, instantaneous flow fields, and grain-scale interactions between colliding dunes, for example. Numerical simulations bridge this gap.
 
 In this project, sand dunes were simulated by coupling two complementary methods: **Large-Eddy Simulations (LES)** for the continuous fluid phase and the **Discrete Element Method (DEM)** for the granular phase. Each grain is tracked individually, allowing access to grain-scale quantities that experiments cannot directly measure. Simulations involved up to **100,000 grains**, capturing the full complexity of dune morphodynamics from formation to interaction.
