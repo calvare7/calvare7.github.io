@@ -39,7 +39,7 @@ A turbulent water flow acts on an initially conical pile of grains, which progre
 
 ### Grain-Scale Force Fields
 
-One of the key advantages of numerical simulations is direct access to forces acting on each grain. This simulation shows the **instantaneous streamwise force field** — the force component aligned with the flow direction (top to bottom) — over evolving barchan dune.
+One of the key advantages of numerical simulations is direct access to forces acting on each grain. This simulation shows the **instantaneous streamwise force field** — the force component aligned with the flow direction (top to bottom) — over an evolving barchan dune.
 
 <div class="row mt-3 justify-content-center">
   <div class="col-sm-8 mt-3 mt-md-0">
