@@ -19,7 +19,7 @@ A turbulent water flow acts on an initially conical pile of grains, which progre
 
 <div class="row mt-3 justify-content-center">
   <div class="col-sm-8 mt-3 mt-md-0">
-    {% include video.liquid path="assets/video/grains_with_time.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true loop=true muted=true %}
+    {% include video.liquid path="assets/video/grains_time_compressed.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true loop=true muted=true %}
   </div>
 </div>
 <div class="caption">
