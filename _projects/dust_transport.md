@@ -35,6 +35,10 @@ both planets. (b) Mars‐to‐Earth ratio of dust settling velocity.
 - Dust settling velocity controls the residence time of dust in the atmosphere but is challenging to measure under low atmospheric density.
 - TRPIV technique enables systematic investigations of dust settling under realistic conditions — including variable particle sizes, shapes, and concentrations — that were previously unachievable.
 
+---
+
+### Related Publications
+
 <ul>
   <li>
     Alvarez, C.A., Gunn, A., Swann, C., Trimble, S.M., Ewing, R.C., & Lapôtre, M.G.A. (2024).
@@ -65,6 +69,10 @@ Using large-eddy simulations with Lagrangian particle tracking, we studied how a
 - Under neutral conditions, hill topography increases the probability of dust uplift by orders of magnitude relative to flat terrain.
 - Even under very weak convective conditions, the hill's effect on vertical transport becomes negligible — convection dominates.
 - These results help explain why coarse dust particles are found at much greater distances from their sources than current models predict.
+
+---
+
+### Related Publications
 
 <ul>
   <li>
