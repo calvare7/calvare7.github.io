@@ -27,13 +27,13 @@ Here, we measured dust settling velocity directly using **Time-Resolved Particle
   </div>
 </div>
 <div class="caption">
-  Experimental setup and results of the TR-PIV experiments. (a) Pressure chamber with high-speed camera and laser. (b) Knudsen number as a function of settling Reynolds number for Mars, Earth, and our experiments. (c) Example raw TR-PIV image showing hollow glass sphere tracers. (d) Instantaneous vertical velocity field measured at 13.2 mbar.
+Influence of particle size on dust settling on Earth and Mars.(a) Predicted settling time (in days) necessary for dust to fall down 1 km on
+both planets. (b) Mars‐to‐Earth ratio of dust settling velocity.
 </div>
 
-**Key Findings:**
-- TR-PIV yields settling velocities in close agreement with semi-empirical theory, validating the approach.
-- Measured slip-coefficient parameters match previously published values within a few percent.
-- This technique enables systematic investigations of dust settling under realistic conditions — including variable particle sizes, shapes, and concentrations — that were previously unachievable.
+**Key Points:**
+- Dust settling velocity controls the residence time of dust in the atmosphere but is challenging to measure under low atmospheric density.
+- TRPIV technique enables systematic investigations of dust settling under realistic conditions — including variable particle sizes, shapes, and concentrations — that were previously unachievable.
 
 <ul>
   <li>
@@ -46,7 +46,7 @@ Here, we measured dust settling velocity directly using **Time-Resolved Particle
 
 ---
 
-### Combined Effect of Topography and Convection on Vertical Dust Transport
+### How Coarse Dust Reaches High Altitudes: The Role of Convection and Terrain
 
 Current global climate models substantially underestimate the presence of coarse dust (d ≥ 20 µm) at high altitudes, suggesting that mechanisms driving vertical dust transport are poorly captured. Two candidates are **topography-induced shear** and **buoyancy-driven convection** — yet their combined effect had not been systematically investigated.
 
@@ -64,7 +64,6 @@ Using large-eddy simulations with Lagrangian particle tracking, we studied how a
 **Key Findings:**
 - Under neutral conditions, hill topography increases the probability of dust uplift by orders of magnitude relative to flat terrain.
 - Even under very weak convective conditions, the hill's effect on vertical transport becomes negligible — convection dominates.
-- In martian sand sheets, convective plumes are a more efficient mechanism for lofting coarse dust to high altitudes than shear induced by topographic features.
 - These results help explain why coarse dust particles are found at much greater distances from their sources than current models predict.
 
 <ul>
