@@ -1,0 +1,390 @@
+{
+  "basics": {
+    "name": "Carlos A. Alvarez Zambrano",
+    "label": "Postdoctoral Researcher | Fluid Mechanics & Planetary Science",
+    "email": "ca3alvarezzambrano@uwaterloo.ca",
+    "url": "https://calvare7.github.io",
+    "summary": "I am a quantitative fluid dynamicist and geomorphologist studying how wind, water, and gravity shape planetary surfaces — from sand dunes on Earth to the windswept landscapes of Mars. My research combines experimental and numerical approaches — including wind-tunnel and flume experiments, Particle Image Velocimetry (PIV), high-speed imaging, and computational fluid dynamics (CFD) and discrete element method (DEM) simulations — to tackle problems at the intersection of fluid mechanics, geomorphology, and planetary science.",
+    "location": {
+      "address": "200 University Ave W",
+      "city": "Waterloo",
+      "region": "ON",
+      "postalCode": "N2L 3G1",
+      "countryCode": "CA"
+    },
+    "profiles": [
+      {
+        "network": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=0k9nzM8AAAAJ"
+      },
+      {
+        "network": "ORCID",
+        "url": "https://orcid.org/0000-0002-7270-5240"
+      },
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/carlos-alvarez-zambrano-1b9631307"
+      },
+      {
+        "network": "ResearchGate",
+        "url": "https://www.researchgate.net/profile/Carlos-Alvarez-19"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "University of Waterloo",
+      "position": "Postdoctoral Scholar",
+      "url": "https://uwaterloo.ca/fluid-mechanics-research-lab/",
+      "startDate": "2025-10",
+      "endDate": "",
+      "summary": "Department of Mechanical and Mechatronics Engineering. Working on boundary layer separation and flow control."
+    },
+    {
+      "name": "Stanford University",
+      "position": "Postdoctoral Scholar",
+      "url": "https://epsp.stanford.edu/",
+      "startDate": "2022-07",
+      "endDate": "2025-03",
+      "summary": "Department of Earth and Planetary Sciences. Conducted low-pressure sediment-transport experiments at the NASA Ames Research Center to elucidate the origin of Mars's large windblown ripples."
+    },
+    {
+      "name": "University of California, Los Angeles",
+      "position": "Postdoctoral Scholar",
+      "url": "https://atmos.ucla.edu/chamecki/",
+      "startDate": "2020-11",
+      "endDate": "2022-06",
+      "summary": "Department of Atmospheric and Oceanic Sciences. Used large-eddy simulations to study how the combined effects of convection and topography enhance dust transport in the atmospheric boundary layer."
+    },
+    {
+      "name": "General Motors of Ecuador",
+      "position": "Product Development Engineer",
+      "startDate": "2009-12",
+      "endDate": "2014-01",
+      "summary": "Certified Green Belt in Design for Six Sigma."
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Campinas (UNICAMP)",
+      "url": "https://www.unicamp.br/",
+      "area": "Mechanical Engineering, Thermal and Fluids",
+      "studyType": "Ph.D.",
+      "startDate": "2016",
+      "endDate": "2020-05-22",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Campinas (UNICAMP)",
+      "url": "https://www.unicamp.br/",
+      "area": "Mechanical Engineering, Thermal and Fluids",
+      "studyType": "M.Sc.",
+      "startDate": "2014",
+      "endDate": "2016-03-18",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "National Polytechnic School (EPN)",
+      "url": "https://www.epn.edu.ec/",
+      "area": "Mechanical Engineering",
+      "studyType": "Engineer",
+      "startDate": "2005",
+      "endDate": "2011-09-23",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "ABCM-EMBRAER Prize 2020 for Best Ph.D. Thesis",
+      "date": "2021",
+      "awarder": "Brazilian Society of Mechanical Sciences",
+      "summary": ""
+    },
+    {
+      "title": "Nominated for the CAPES Prize for Best Ph.D. Thesis",
+      "date": "2021",
+      "awarder": "School of Mechanical Engineering, UNICAMP",
+      "summary": ""
+    },
+    {
+      "title": "Best Presentation of the Day",
+      "date": "2017",
+      "awarder": "Experimental Fluid Mechanics (EFM2017), Technical University of Liberec, Czech Republic",
+      "summary": ""
+    },
+    {
+      "title": "Funded mentee, Mentoring Institute for Sediment Transport Researchers",
+      "date": "2023",
+      "awarder": "USA",
+      "summary": ""
+    },
+    {
+      "title": "Funded participant, Earth Surface Processes Institute (ESPIn)",
+      "date": "2023",
+      "awarder": "University of Colorado, Boulder, USA",
+      "summary": ""
+    },
+    {
+      "title": "Travel Grant, 72nd Annual Meeting",
+      "date": "2019",
+      "awarder": "APS Division of Fluid Dynamics",
+      "summary": ""
+    },
+    {
+      "title": "Full Doctoral Scholarship",
+      "date": "2016-2020",
+      "awarder": "SENESCYT, Ecuador",
+      "summary": ""
+    },
+    {
+      "title": "Full Master's Scholarship",
+      "date": "2014-2016",
+      "awarder": "SENESCYT, Ecuador",
+      "summary": ""
+    },
+    {
+      "title": "Scholarship, Emerging Leaders in the Americas Program",
+      "date": "2017-2018",
+      "awarder": "Global Affairs Canada",
+      "summary": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "Resultant force on each grain of a sand dune: How to measure it?",
+      "publisher": "Geophysical Research Letters",
+      "releaseDate": "2025",
+      "url": "https://doi.org/10.1029/2025GL116942",
+      "summary": "Miotto, R.F., Alvarez, C.A., Borges, D.S., Wolf, W.R., Franklin, E.M."
+    },
+    {
+      "name": "Aerodynamic roughness of rippled beds under active saltation at Earth-to-Mars atmospheric pressures",
+      "publisher": "Nature Communications",
+      "releaseDate": "2025",
+      "url": "https://doi.org/10.1038/s41467-025-60212-7",
+      "summary": "Alvarez, C.A., Lapôtre, M.G.A., Swann, C., Ewing, R.C., Jia, P., Claudin, P."
+    },
+    {
+      "name": "Ripples formed in low-pressure wind tunnels suggest Mars's large windblown ripples are not impact ripples",
+      "publisher": "Nature Communications",
+      "releaseDate": "2025",
+      "url": "https://doi.org/10.1038/s41467-025-58140-7",
+      "summary": "Alvarez, C.A., Lapôtre, M.G.A., Swann, C., Ewing, R.C."
+    },
+    {
+      "name": "Direct measurements of dust settling velocity under low-density atmospheres using time-resolved particle image velocimetry",
+      "publisher": "Geophysical Research Letters",
+      "releaseDate": "2024",
+      "url": "https://doi.org/10.1029/2024GL109958",
+      "summary": "Alvarez, C.A., Gunn, A., Swann, C., Trimble, S.M., Ewing, R.C., Lapôtre, M.G.A."
+    },
+    {
+      "name": "Barchan-barchan dune repulsion investigated at the grain scale",
+      "publisher": "Journal of Geophysical Research: Earth Surface",
+      "releaseDate": "2024",
+      "url": "https://doi.org/10.1029/2024JF007741",
+      "summary": "Lima, N.C., Assis, W.R., Alvarez, C.A., Franklin, E.M."
+    },
+    {
+      "name": "Grain-scale computations of barchan dunes",
+      "publisher": "Physics of Fluids",
+      "releaseDate": "2022",
+      "url": "https://doi.org/10.1063/5.0121810",
+      "summary": "Lima, N.C., Assis, W.R., Alvarez, C.A., Franklin, E.M."
+    },
+    {
+      "name": "Growth of barchan dunes of bidispersed granular mixtures",
+      "publisher": "Physics of Fluids",
+      "releaseDate": "2021",
+      "url": "https://doi.org/10.1063/5.0048696",
+      "summary": "Alvarez, C.A., Cúñez, F.D., Franklin, E.M."
+    },
+    {
+      "name": "Force distribution within a barchan dune",
+      "publisher": "Physics of Fluids",
+      "releaseDate": "2021",
+      "url": "https://doi.org/10.1063/5.0033964",
+      "summary": "Alvarez, C.A., Franklin, E.M."
+    },
+    {
+      "name": "Shape evolution of numerically obtained subaqueous barchan dunes",
+      "publisher": "Physical Review E",
+      "releaseDate": "2020",
+      "url": "https://doi.org/10.1103/PhysRevE.101.012905",
+      "summary": "Alvarez, C.A., Franklin, E.M."
+    },
+    {
+      "name": "Horns of subaqueous barchan dunes: A study at the grain scale",
+      "publisher": "Physical Review E",
+      "releaseDate": "2019",
+      "url": "https://doi.org/10.1103/PhysRevE.100.042904",
+      "summary": "Alvarez, C.A., Franklin, E.M."
+    },
+    {
+      "name": "Role of transverse displacements in the formation of subaqueous barchan dunes",
+      "publisher": "Physical Review Letters",
+      "releaseDate": "2018",
+      "url": "https://doi.org/10.1103/PhysRevLett.121.164503",
+      "summary": "Alvarez, C.A., Franklin, E.M."
+    },
+    {
+      "name": "Birth of a subaqueous barchan dune",
+      "publisher": "Physical Review E",
+      "releaseDate": "2017",
+      "url": "https://doi.org/10.1103/PhysRevE.96.062906",
+      "summary": "Alvarez, C.A., Franklin, E.M."
+    },
+    {
+      "name": "Intermittent gravity-driven flow of grains through narrow pipes",
+      "publisher": "Physica A",
+      "releaseDate": "2017",
+      "url": "https://doi.org/10.1016/j.physa.2016.08.071",
+      "summary": "Alvarez, C.A., Franklin, E.M."
+    },
+    {
+      "name": "Length scale of density waves in the gravitational flow of fine grains in pipes",
+      "publisher": "Journal of the Brazilian Society of Mechanical Sciences and Engineering",
+      "releaseDate": "2015",
+      "url": "https://doi.org/10.1007/s40430-014-0248-2",
+      "summary": "Franklin, E.M., Alvarez, C.A."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Experimental",
+      "level": "",
+      "keywords": [
+        "Particle Image Velocimetry (PIV)",
+        "Particle Tracking Velocimetry (PTV)",
+        "High-speed imaging",
+        "Wind tunnel experiments",
+        "Flume experiments"
+      ]
+    },
+    {
+      "name": "Numerical",
+      "level": "",
+      "keywords": [
+        "Large-Eddy Simulations (LES)",
+        "Computational Fluid Dynamics (CFD)",
+        "Discrete Element Method (DEM)",
+        "OpenFOAM",
+        "ANSYS",
+        "LIGGGHTS",
+        "CFDEM"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": [
+        "MATLAB",
+        "Python",
+        "FORTRAN",
+        "C++",
+        "Linux",
+        "Windows"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Portuguese",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Planetary Geomorphology",
+      "keywords": ["Mars", "Aeolian processes", "Sand dunes", "Ripples"]
+    },
+    {
+      "name": "Fluid Mechanics",
+      "keywords": ["Turbulence", "Boundary layers", "Sediment transport", "Granular flows"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Dr. Erick M. Franklin",
+      "reference": "Ph.D. Advisor. Associate Professor, School of Mechanical Engineering, University of Campinas (UNICAMP). Email: franklin@fem.unicamp.br"
+    },
+    {
+      "name": "Dr. Mathieu Lapôtre",
+      "reference": "Postdoctoral Advisor. Assistant Professor, Department of Earth and Planetary Sciences (and by courtesy, Geophysics), Stanford University. Email: mlapotre@stanford.edu"
+    },
+    {
+      "name": "Dr. Ryan C. Ewing",
+      "reference": "Collaborator. Pressurized Rover NASA Science Lead, NASA Johnson Space Center. Email: ryan.c.ewing@nasa.gov"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Subaqueous Barchan Dunes",
+      "summary": "Formation and dynamics of barchan dunes under turbulent water flow — laboratory experiments tracking grain-scale dynamics.",
+      "url": "https://calvare7.github.io/projects/barchan_dunes/"
+    },
+    {
+      "name": "Windblown Ripples at Mars-Like Pressures",
+      "summary": "Low-pressure wind tunnel experiments (MARSWIT, NASA Ames) demonstrating that large Martian ripples are drag ripples, not impact ripples.",
+      "url": "https://calvare7.github.io/projects/marswit_ripples/"
+    },
+    {
+      "name": "Numerical Simulations of Sand Dunes",
+      "summary": "CFD-DEM simulations of sand dune formation and dynamics, providing grain-scale access to forces and interactions.",
+      "url": "https://calvare7.github.io/projects/numerical_simulations/"
+    },
+    {
+      "name": "Dust Transport on Earth and Mars",
+      "summary": "TR-PIV measurements of dust settling velocity and LES simulations of dust vertical transport under Earth-to-Mars conditions.",
+      "url": "https://calvare7.github.io/projects/dust_transport/"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Boundary-Layer Meteorology",
+      "position": "Member, Early Career Researchers Board",
+      "startDate": "",
+      "endDate": "",
+      "summary": ""
+    },
+    {
+      "organization": "Stanford Doerr School of Sustainability",
+      "position": "Recruitment Ambassador",
+      "startDate": "",
+      "endDate": "",
+      "summary": ""
+    },
+    {
+      "organization": "National Science Foundation (NSF)",
+      "position": "External Reviewer, Geomorphology and Land-use Dynamics Program",
+      "startDate": "",
+      "endDate": "",
+      "summary": ""
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Green Belt in Design for Six Sigma",
+      "date": "2013",
+      "issuer": "General Motors Company",
+      "url": ""
+    },
+    {
+      "name": "Aircraft Maintenance Mechanic License #2232",
+      "date": "",
+      "issuer": "DGAC, Ecuador",
+      "url": ""
+    }
+  ]
+}
