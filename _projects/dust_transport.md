@@ -22,7 +22,7 @@ Accurately predicting the speed at which dust settles is critical because it con
 Here, we measured dust settling velocity directly using **Time-Resolved Particle Image Velocimetry (TR-PIV)** under Earth-to-Mars atmospheric pressures. By tracking over **10,000 particles** simultaneously, TR-PIV provides a statistically robust approach that can be extended to realistic dust properties — including irregular shapes, variable size distributions, and different gas compositions.
 
 <div class="row mt-3 justify-content-center">
-  <div class="col-sm-6 mt-3 mt-md-0">
+  <div class="col-sm-4 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/fig_1_TRPIV.jpg" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
