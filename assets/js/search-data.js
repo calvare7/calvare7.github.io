@@ -135,28 +135,35 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
-        },
-      },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("mailto:%63%61%72%6C%6F%73%61%61%7A%61%65%6C%61%6C%76%61%72%65%7A@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=0k9nzM8AAAAJ", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/carlos-alvarez-zambrano-1b9631307", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0002-7270-5240", "_blank");
+        },
+      },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/Carlos-Alvarez-19/", "_blank");
         },
       },{
         id: 'social-custom_social',
