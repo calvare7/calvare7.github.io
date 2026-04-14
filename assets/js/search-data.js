@@ -98,6 +98,11 @@ ninja.data = [{
           description: "Formation and dynamics of barchan dunes under turbulent water flow — lab experiments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/barchan_dunes/";
+            },},{id: "projects-dust-transport-on-earth-and-mars",
+          title: 'Dust Transport on Earth and Mars',
+          description: "Experimental and numerical investigations of dust settling and vertical transport under Earth-to-Mars atmospheric conditions",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/dust_transport/";
             },},{id: "projects-windblown-ripples-at-mars-like-pressures",
           title: 'Windblown Ripples at Mars-Like Pressures',
           description: "Low-pressure wind tunnel experiments revealing the origin of Mars&#39;s large windblown ripples — MARSWIT experiments",
