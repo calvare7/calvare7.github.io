@@ -1,0 +1,315 @@
+cv:
+  name: Carlos A. Alvarez Zambrano
+  label: Postdoctoral Researcher | Fluid Mechanics & Planetary Science
+  email: ca3alvarezzambrano@uwaterloo.ca
+  location: Waterloo, ON, Canada
+  image: ""
+  summary: I am a quantitative fluid dynamicist and geomorphologist studying how wind, water, and gravity shape planetary surfaces — from sand dunes on Earth to the windswept landscapes of Mars. My research combines experimental and numerical approaches — including wind-tunnel and flume experiments, Particle Image Velocimetry (PIV), high-speed imaging, and CFD/DEM simulations — to tackle problems at the intersection of fluid mechanics, geomorphology, and planetary science.
+
+  social_networks:
+    - network: LinkedIn
+      username: carlos-alvarez-zambrano-1b9631307
+    - network: GitHub
+      username: calvare7
+
+  address:
+    street: 200 University Ave W
+    city: Waterloo
+    region: Ontario
+    postalCode: N2L 3G1
+    countryCode: CA
+
+  sections:
+    Education:
+      - institution: University of Campinas (UNICAMP)
+        location: Campinas, Brazil
+        url: https://www.unicamp.br/
+        area: Mechanical Engineering, Thermal and Fluids
+        studyType: Ph.D.
+        start_date: 2016
+        end_date: 2020
+        highlights:
+          - "Dissertation honored with the ABCM-EMBRAER Prize 2020 for Best Ph.D. Thesis."
+          - "Visiting graduate researcher at Western University, Canada (2018)."
+
+      - institution: University of Campinas (UNICAMP)
+        location: Campinas, Brazil
+        url: https://www.unicamp.br/
+        area: Mechanical Engineering, Thermal and Fluids
+        studyType: M.Sc.
+        start_date: 2014
+        end_date: 2016
+
+      - institution: National Polytechnic School (EPN)
+        location: Quito, Ecuador
+        url: https://www.epn.edu.ec/
+        area: Mechanical Engineering
+        studyType: Engineer
+        start_date: 2005
+        end_date: 2011
+
+    Experience:
+      - company: University of Waterloo
+        position: Postdoctoral Scholar
+        location: Waterloo, ON, Canada
+        start_date: 2025-10
+        end_date: present
+        summary: Department of Mechanical and Mechatronics Engineering. Working on boundary layer separation and flow control.
+
+      - company: Stanford University
+        position: Postdoctoral Scholar
+        location: Stanford, CA, USA
+        start_date: 2022-07
+        end_date: 2025-03
+        summary: Department of Earth and Planetary Sciences. Conducted low-pressure sediment-transport experiments at the NASA Ames Research Center to elucidate the origin of Mars's large windblown ripples.
+
+      - company: University of California, Los Angeles
+        position: Postdoctoral Scholar
+        location: Los Angeles, CA, USA
+        start_date: 2020-11
+        end_date: 2022-06
+        summary: Department of Atmospheric and Oceanic Sciences. Used large-eddy simulations to study how the combined effects of convection and topography enhance dust transport in the atmospheric boundary layer.
+
+      - company: General Motors of Ecuador
+        position: Product Development Engineer
+        location: Quito, Ecuador
+        start_date: 2009-12
+        end_date: 2014-01
+        highlights:
+          - Certified Green Belt in Design for Six Sigma.
+
+    Awards:
+      - title: ABCM-EMBRAER Prize 2020 for Best Ph.D. Thesis
+        date: 2021
+        awarder: Brazilian Society of Mechanical Sciences
+        summary: ""
+
+      - title: Nominated for the CAPES Prize for Best Ph.D. Thesis
+        date: 2021
+        awarder: School of Mechanical Engineering, UNICAMP
+        summary: ""
+
+      - title: Best Presentation of the Day
+        date: 2017
+        awarder: Experimental Fluid Mechanics (EFM2017), Technical University of Liberec, Czech Republic
+        summary: ""
+
+      - title: Funded mentee, Mentoring Institute for Sediment Transport Researchers
+        date: 2023
+        awarder: USA
+        summary: ""
+
+      - title: Funded participant, Earth Surface Processes Institute (ESPIn)
+        date: 2023
+        awarder: University of Colorado, Boulder, USA
+        summary: ""
+
+      - title: Travel Grant, 72nd Annual Meeting, APS Division of Fluid Dynamics
+        date: 2019
+        awarder: American Physical Society
+        summary: ""
+
+      - title: Full Doctoral Scholarship
+        date: 2016-2020
+        awarder: SENESCYT, Ecuador
+        summary: ""
+
+      - title: Full Master's Scholarship
+        date: 2014-2016
+        awarder: SENESCYT, Ecuador
+        summary: ""
+
+      - title: Scholarship, Emerging Leaders in the Americas Program
+        date: 2017-2018
+        awarder: Global Affairs Canada
+        summary: ""
+
+    Publications:
+      - title: "Resultant force on each grain of a sand dune: How to measure it?"
+        authors:
+          - Miotto, R.F.
+          - Alvarez, C.A.
+          - Borges, D.S.
+          - Wolf, W.R.
+          - Franklin, E.M.
+        publisher: Geophysical Research Letters
+        releaseDate: 2025
+        url: https://doi.org/10.1029/2025GL116942
+
+      - title: Aerodynamic roughness of rippled beds under active saltation at Earth-to-Mars atmospheric pressures
+        authors:
+          - Alvarez, C.A.
+          - Lapôtre, M.G.A.
+          - Swann, C.
+          - Ewing, R.C.
+          - Jia, P.
+          - Claudin, P.
+        publisher: Nature Communications
+        releaseDate: 2025
+        url: https://doi.org/10.1038/s41467-025-60212-7
+
+      - title: "Ripples formed in low-pressure wind tunnels suggest Mars's large windblown ripples are not impact ripples"
+        authors:
+          - Alvarez, C.A.
+          - Lapôtre, M.G.A.
+          - Swann, C.
+          - Ewing, R.C.
+        publisher: Nature Communications
+        releaseDate: 2025
+        url: https://doi.org/10.1038/s41467-025-58140-7
+
+      - title: Direct measurements of dust settling velocity under low-density atmospheres using time-resolved particle image velocimetry
+        authors:
+          - Alvarez, C.A.
+          - Gunn, A.
+          - Swann, C.
+          - Trimble, S.M.
+          - Ewing, R.C.
+          - Lapôtre, M.G.A.
+        publisher: Geophysical Research Letters
+        releaseDate: 2024
+        url: https://doi.org/10.1029/2024GL109958
+
+      - title: Barchan-barchan dune repulsion investigated at the grain scale
+        authors:
+          - Lima, N.C.
+          - Assis, W.R.
+          - Alvarez, C.A.
+          - Franklin, E.M.
+        publisher: "Journal of Geophysical Research: Earth Surface"
+        releaseDate: 2024
+        url: https://doi.org/10.1029/2024JF007741
+
+      - title: Grain-scale computations of barchan dunes
+        authors:
+          - Lima, N.C.
+          - Assis, W.R.
+          - Alvarez, C.A.
+          - Franklin, E.M.
+        publisher: Physics of Fluids
+        releaseDate: 2022
+        url: https://doi.org/10.1063/5.0121810
+
+      - title: Growth of barchan dunes of bidispersed granular mixtures
+        authors:
+          - Alvarez, C.A.
+          - Cúñez, F.D.
+          - Franklin, E.M.
+        publisher: Physics of Fluids
+        releaseDate: 2021
+        url: https://doi.org/10.1063/5.0048696
+
+      - title: Force distribution within a barchan dune
+        authors:
+          - Alvarez, C.A.
+          - Franklin, E.M.
+        publisher: Physics of Fluids
+        releaseDate: 2021
+        url: https://doi.org/10.1063/5.0033964
+
+      - title: Shape evolution of numerically obtained subaqueous barchan dunes
+        authors:
+          - Alvarez, C.A.
+          - Franklin, E.M.
+        publisher: Physical Review E
+        releaseDate: 2020
+        url: https://doi.org/10.1103/PhysRevE.101.012905
+
+      - title: "Horns of subaqueous barchan dunes: A study at the grain scale"
+        authors:
+          - Alvarez, C.A.
+          - Franklin, E.M.
+        publisher: Physical Review E
+        releaseDate: 2019
+        url: https://doi.org/10.1103/PhysRevE.100.042904
+
+      - title: Role of transverse displacements in the formation of subaqueous barchan dunes
+        authors:
+          - Alvarez, C.A.
+          - Franklin, E.M.
+        publisher: Physical Review Letters
+        releaseDate: 2018
+        url: https://doi.org/10.1103/PhysRevLett.121.164503
+
+      - title: Birth of a subaqueous barchan dune
+        authors:
+          - Alvarez, C.A.
+          - Franklin, E.M.
+        publisher: Physical Review E
+        releaseDate: 2017
+        url: https://doi.org/10.1103/PhysRevE.96.062906
+
+      - title: Intermittent gravity-driven flow of grains through narrow pipes
+        authors:
+          - Alvarez, C.A.
+          - Franklin, E.M.
+        publisher: Physica A
+        releaseDate: 2017
+        url: https://doi.org/10.1016/j.physa.2016.08.071
+
+      - title: Length scale of density waves in the gravitational flow of fine grains in pipes
+        authors:
+          - Franklin, E.M.
+          - Alvarez, C.A.
+        publisher: Journal of the Brazilian Society of Mechanical Sciences and Engineering
+        releaseDate: 2015
+        url: https://doi.org/10.1007/s40430-014-0248-2
+
+    Skills:
+      - name: Experimental
+        level: Expert
+        icon: fa-solid fa-flask
+        keywords: "Particle Image Velocimetry (PIV), Particle Tracking Velocimetry (PTV), High-speed imaging, Wind tunnel experiments, Flume experiments"
+
+      - name: Numerical
+        level: Expert
+        icon: fa-solid fa-computer
+        keywords: "Large-Eddy Simulations (LES), CFD, Discrete Element Method (DEM), OpenFOAM, ANSYS, LIGGGHTS, CFDEM"
+
+      - name: Programming
+        level: Expert
+        icon: fa-solid fa-code
+        keywords: "MATLAB, Python, FORTRAN, C++, Linux, Windows"
+
+    Languages:
+      - name: Spanish
+        summary: "Native speaker"
+
+      - name: English
+        summary: "Fluent"
+
+      - name: Portuguese
+        summary: "Fluent"
+
+    Interests:
+      - name: Planetary Geomorphology
+        icon: fa-solid fa-earth-americas
+        keywords: "Mars, Aeolian processes, Sand dunes, Ripples, Dust transport"
+
+      - name: Fluid Mechanics
+        icon: fa-solid fa-water
+        keywords: "Turbulence, Boundary layers, Sediment transport, Granular flows"
+
+    Certificates:
+      - name: Green Belt in Design for Six Sigma
+        date: 2013
+        issuer: General Motors Company
+        icon: fa-solid fa-certificate
+
+      - name: Aircraft Maintenance Mechanic License #2232 (Powerplant and Airframe)
+        date: ""
+        issuer: DGAC, Ecuador
+        icon: fa-solid fa-plane
+
+    References:
+      - name: Dr. Erick M. Franklin
+        icon: fa-solid fa-laptop
+        reference: "Ph.D. Advisor. Associate Professor, School of Mechanical Engineering, University of Campinas (UNICAMP). Email: franklin@fem.unicamp.br"
+
+      - name: Dr. Mathieu Lapôtre
+        icon: fa-solid fa-earth-americas
+        reference: "Postdoctoral Advisor. Assistant Professor, Department of Earth and Planetary Sciences, Stanford University. Email: mlapotre@stanford.edu"
+
+      - name: Dr. Ryan C. Ewing
+        icon: fa-solid fa-rocket
+        reference: "Collaborator. Pressurized Rover NASA Science Lead, NASA Johnson Space Center. Email: ryan.c.ewing@nasa.gov"
