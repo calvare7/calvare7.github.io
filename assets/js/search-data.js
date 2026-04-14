@@ -84,10 +84,12 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-",
-          title: '',
+            },},{id: "news-announcement-2",
+          title: 'Announcement_2',
           description: "",
-          section: "News",},{id: "news-new-paper-out-in-nature-communications-aerodynamic-roughness-of-rippled-beds-under-active-saltation-at-earth-to-mars-atmospheric-pressures-nature-communications-16-5113",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
+            },},{id: "news-new-paper-out-in-nature-communications-aerodynamic-roughness-of-rippled-beds-under-active-saltation-at-earth-to-mars-atmospheric-pressures-nature-communications-16-5113",
           title: 'New paper out in Nature Communications! Aerodynamic roughness of rippled beds under active...',
           description: "",
           section: "News",},{id: "news-joined-the-fluid-mechanics-research-lab-at-the-university-of-waterloo-as-a-postdoctoral-scholar",
