@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Windblown Ripples at Mars-Like Pressures
-description: Low-pressure wind tunnel experiments revealing the origin of Mars's large windblown ripples — MARSWIT experiments
+description: Low-pressure wind tunnel experiments revealing the origin of Mars's large windblown ripples — MARSWIT experiments.
 img: assets/img/MARSWIT_bed_evolution_at_100mbar.jpg
 importance: 2
 category: work
@@ -18,7 +18,7 @@ This project used the **Mars Surface Wind Tunnel (MARSWIT)** at NASA Ames Resear
 ### Windblown Ripples on Earth and Mars
 
 <div class="row mt-3">
-  <div class="col-sm mt-3 mt-md-0">
+  <div class="col-sm-4 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/rippleEarthMars.jpg" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
