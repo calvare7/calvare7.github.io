@@ -1,13 +1,11 @@
 ---
 layout: page
 title: Dust Transport on Earth and Mars
-description: Experimental and numerical investigations of dust settling and vertical transport under Earth-to-Mars atmospheric conditions
+description: Experimental and numerical investigations of dust settling and vertical transport under Earth-to-Mars atmospheric conditions.
 img: assets/img/Mars_dust.jpg
 importance: 4
 category: work
 ---
-
-## Dust Transport on Earth and Mars
 
 Airborne dust plays a critical role in the climate systems of both Earth and Mars. On Earth, dust aerosols influence cloud formation, precipitation, and nutrient cycles across ocean basins. On Mars, dust governs atmospheric opacity, surface energy balance, and sand transport — and poses hazards to future human exploration. Despite its importance, dust dynamics remain poorly understood, particularly under the low-density atmospheric conditions of Mars.
 
