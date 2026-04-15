@@ -100,7 +100,7 @@ ninja.data = [{
               window.location.href = "/projects/barchan_dunes/";
             },},{id: "projects-dust-transport-on-earth-and-mars",
           title: 'Dust Transport on Earth and Mars',
-          description: "Experimental and numerical investigations of dust settling and vertical transport under Earth-to-Mars atmospheric conditions",
+          description: "Experimental and numerical investigations of dust settling and vertical transport under Earth-to-Mars atmospheric conditions.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/dust_transport/";
             },},{id: "projects-windblown-ripples-at-mars-like-pressures",
