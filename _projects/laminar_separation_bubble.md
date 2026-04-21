@@ -19,7 +19,7 @@ The video below shows the transient evolution of the flow field over the NACA 00
 
 <div class="row mt-3 justify-content-center">
   <div class="col-sm-10 mt-3 mt-md-0">
-    {% include video.liquid path="assets/video/Re70k_transient.mv4" class="img-fluid rounded z-depth-1" controls=true autoplay=true loop=true muted=true %}
+    {% include video.liquid path="assets/video/Re70k_a6_transient_05_sliding.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true loop=true muted=true %}
   </div>
 </div>
 <div class="caption">
