@@ -7,8 +7,6 @@ importance: 5
 category: work
 ---
 
-## Acoustic Excitation Control of Separated Shear Layers in the Low Reynolds Regime
-
 At low Reynolds numbers, the flow over an airfoil can separate from the surface before transitioning to turbulence. This **laminar separation** significantly degrades aerodynamic performance by reducing lift and increasing drag. Under the right conditions, the separated shear layer reattaches downstream, forming a **laminar separation bubble (LSB)** — a small recirculating region that promotes the transition to turbulence and allows the flow to recover, restoring lift. Understanding and controlling this reattachment process is critical for applications operating in low-speed, low-Reynolds-number regimes.
 
 This project investigates the formation and control of laminar separation bubbles over a **NACA 0018 airfoil** at an angle of attack of 6° using **time-resolved Particle Image Velocimetry (TR-PIV)**. A key focus is the use of **acoustic excitation** to accelerate the reattachment of the separated shear layer and promote earlier LSB formation, thereby recovering lift.
@@ -17,7 +15,7 @@ This project investigates the formation and control of laminar separation bubble
 
 ### Experiment
 
-The video below shows the transient evolution of the flow field over the NACA 0018 airfoil. The flow moves from **left to right** in Cartesian coordinates. Starting at Re_c ≈ 15,000, the Reynolds number was gradually increased until Re_c ≈ 65,000, at which point the separated shear layer reattached and the laminar separation bubble formed. The velocity field was obtained from TR-PIV measurements.
+The video below shows the transient evolution of the flow field over the NACA 0018 airfoil. The flow moves from **left to right** in Cartesian coordinates. The flow accelerated from Re ≈ 15,000 up to Re ≈ 70,000. As the laminar shear layer transitioned to a turbulent shear layer, the separated shear layer reattached and the laminar separation bubble formed. In this movie, reattachment occurred at Re ≈ 65,000.
 
 <div class="row mt-3 justify-content-center">
   <div class="col-sm-10 mt-3 mt-md-0">
@@ -25,7 +23,7 @@ The video below shows the transient evolution of the flow field over the NACA 00
   </div>
 </div>
 <div class="caption">
-  Transient flow field over a NACA 0018 airfoil at angle of attack = 6°, obtained from TR-PIV. Flow direction: left to right. The flow accelerated from Re ≈ 15,000 up to Re ≈ 70,000. As the laminar shear layer transitioned to a turbulent shear layer, the separated shear layer reattached and the laminar separation bubble formed. In this movie, reattachment occurred at Re ≈ 65,000.
+  Transient flow field over a NACA 0018 airfoil at angle of attack = 6°, obtained from TR-PIV. Flow direction: left to right. 
 </div>
 
 ---
@@ -42,11 +40,8 @@ The video below shows the transient evolution of the flow field over the NACA 00
 
 This research has direct relevance for engineering systems that operate at low Reynolds numbers, where laminar separation is a persistent challenge:
 
-- **Small unmanned aerial vehicles (UAVs) and drones** — which routinely operate in the Re = 10⁴–10⁵ range where LSBs are prevalent
+- **Small unmanned aerial vehicles (UAVs) and drones** — which routinely operate at the Re numbers
 - **Wind turbine blades** at low wind speeds and near the blade tips of large turbines
-- **Micro air vehicles (MAVs)** operating in confined or gusty environments
-- **Compressor and turbine blades** in aero-engines at off-design conditions
-- **Gliders and sailplanes** at high angles of attack during low-speed flight
 - **Flow control systems** — acoustic excitation as a practical, low-power alternative to traditional active flow control methods
 
 ---
