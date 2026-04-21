@@ -25,7 +25,7 @@ The video below shows the transient evolution of the flow field over the NACA 00
   </div>
 </div>
 <div class="caption">
-  Transient flow field over a NACA 0018 airfoil at angle of attack = 6°, obtained from TR-PIV. Flow direction: left to right. As Re increases from ~15,000 to ~65,000, the separated shear layer reattaches and the laminar separation bubble forms.
+  Transient flow field over a NACA 0018 airfoil at angle of attack = 6°, obtained from TR-PIV. Flow direction: left to right. The flow accelerated from Re ≈ 15,000 up to Re ≈ 70,000. As the laminar shear layer transitioned to a turbulent shear layer, the separated shear layer reattached and the laminar separation bubble formed. In this movie, reattachment occurred at Re ≈ 65,000.
 </div>
 
 ---
