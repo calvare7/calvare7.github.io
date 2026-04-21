@@ -72,13 +72,6 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/numerical_simulations/";
             },},{
-        id: 'social-cv',
-        title: 'CV',
-        section: 'Socials',
-        handler: () => {
-          window.open("/assets/pdf/cv_alvarez_04012026_ec.pdf", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
