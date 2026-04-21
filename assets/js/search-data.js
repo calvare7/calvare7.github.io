@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-cv",
+          title: "CV",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
         },{id: "nav-repositories",
           title: "repositories",
           description: "Datasets and scripts to process data from our lab experiments and numerical simulations. Links redirect to respective repositories.",
