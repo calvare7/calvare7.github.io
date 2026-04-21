@@ -9,7 +9,7 @@ category: work
 
 ## Acoustic Excitation Control of Separated Shear Layers in the Low Reynolds Regime
 
-At low Reynolds numbers, the flow over an airfoil can separate from the surface before transitioning to turbulence, forming a **laminar separation bubble (LSB)** — a recirculating region that significantly degrades aerodynamic performance by reducing lift and increasing drag. Understanding and controlling this phenomenon is critical for applications operating in low-speed, low-Reynolds-number regimes.
+At low Reynolds numbers, the flow over an airfoil can separate from the surface before transitioning to turbulence. This **laminar separation** significantly degrades aerodynamic performance by reducing lift and increasing drag. Under the right conditions, the separated shear layer reattaches downstream, forming a **laminar separation bubble (LSB)** — a small recirculating region that promotes the transition to turbulence and allows the flow to recover, restoring lift. Understanding and controlling this reattachment process is critical for applications operating in low-speed, low-Reynolds-number regimes.
 
 This project investigates the formation and control of laminar separation bubbles over a **NACA 0018 airfoil** at an angle of attack of 6° using **time-resolved Particle Image Velocimetry (TR-PIV)**. A key focus is the use of **acoustic excitation** to accelerate the reattachment of the separated shear layer and promote earlier LSB formation, thereby recovering lift.
 
