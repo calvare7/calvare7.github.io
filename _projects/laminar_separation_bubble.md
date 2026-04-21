@@ -23,7 +23,7 @@ The video below shows the transient evolution of the flow field over the NACA 00
   </div>
 </div>
 <div class="caption">
-  Transient flow field over a NACA 0018 airfoil at angle of attack = 6°, obtained from TR-PIV. Flow direction: left to right. 
+  Streamwise transient flow field over a NACA 0018 airfoil at angle of attack = 6°, obtained from TR-PIV. Flow direction: left to right. 
 </div>
 
 ---
