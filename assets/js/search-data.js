@@ -68,6 +68,11 @@ ninja.data = [{
           description: "Experimental and numerical investigations of dust settling and vertical transport under Earth-to-Mars atmospheric conditions.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/dust_transport/";
+            },},{id: "projects-acoustic-control-of-separated-shear-layers-at-low-reynolds-numbers",
+          title: 'Acoustic Control of Separated Shear Layers at Low Reynolds Numbers',
+          description: "Sound excitation to control laminar separation bubble formation over a NACA 0018 airfoil at low Reynolds numbers",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/laminar_separation_bubble/";
             },},{id: "projects-windblown-ripples-at-mars-like-pressures",
           title: 'Windblown Ripples at Mars-Like Pressures',
           description: "Low-pressure wind tunnel experiments revealing the origin of Mars&#39;s large windblown ripples — MARSWIT experiments.",
