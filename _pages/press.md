@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Press
+title: press
 permalink: /press/
 description: Media coverage and press highlights of our research.
 nav: true
