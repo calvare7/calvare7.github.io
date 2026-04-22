@@ -38,7 +38,7 @@ ninja.data = [{
             window.location.href = "/repositories/";
           },
         },{id: "nav-press",
-          title: "Press",
+          title: "press",
           description: "Media coverage and press highlights of our research.",
           section: "Navigation",
           handler: () => {
